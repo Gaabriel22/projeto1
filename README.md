@@ -1,7 +1,7 @@
 
 # Exercício HTML
 
-Este exercício tem como objetivo aplicar os conceitos aprendidos ao longo do módulo de HTML, criando um site para um escritório de contabilidade fictício. O site deverá conter quatro páginas principais: Início, Sobre Nós, Serviços e Contato. O design das páginas deve ser desenvolvido com base nas imagens de referência fornecidas durante a aula.
+Este exercício tem como objetivo aplicar os conceitos aprendidos ao longo do módulo de HTML ministrado pela OneBitCode, criando um site para um escritório de contabilidade fictício. O site deverá conter quatro páginas principais: Início, Sobre Nós, Serviços e Contato. O design das páginas deve ser desenvolvido com base nas imagens de referência fornecidas durante a aula.
 
 # Estrutura do Projeto
 
@@ -26,5 +26,7 @@ img/: Diretório que contém as imagens utilizadas no site.
 3. Navegue entre as páginas usando os links de navegação.
 
 # Referências
+Visite o site da OneBitCode para conhecer os cursos e projetos: https://www.onebitcode.com/
 
 As imagens de referência fornecidas durante a aula foram utilizadas como base para o design do site.
+
